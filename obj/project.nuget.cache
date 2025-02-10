@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RlrQrk0WVP4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\U1\\Desktop\\pro1\\p1\\p1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\U1\\.nuget\\packages\\selenium.webdriver\\4.28.0\\selenium.webdriver.4.28.0.nupkg.sha512",
+    "C:\\Users\\U1\\.nuget\\packages\\selenium.webdriver.chromedriver\\133.0.6943.5300\\selenium.webdriver.chromedriver.133.0.6943.5300.nupkg.sha512",
+    "C:\\Users\\U1\\.nuget\\packages\\selenium.webdriver.geckodriver\\0.35.0\\selenium.webdriver.geckodriver.0.35.0.nupkg.sha512"
+  ],
+  "logs": []
+}
