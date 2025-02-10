@@ -1,0 +1,30 @@
+***** Starting Test Execution *****
+Timestamp: 2/11/2025 12:36:07 AM
+Screenshot saved: C:\Users\U1\Desktop\pro1\LogsAndScreenshots\1-HomePage.png
+--- Running Add Product Test ---
+--- Navigating to the Add Product page ---
+Screenshot saved: C:\Users\U1\Desktop\pro1\LogsAndScreenshots\2-AddProductPage.png
+--- Photo has been uploaded ---
+Screenshot saved: C:\Users\U1\Desktop\pro1\LogsAndScreenshots\3-PhotoAdded.png
+--- Adding Title, Price, and Description ---
+Screenshot saved: C:\Users\U1\Desktop\pro1\LogsAndScreenshots\4-PageFilled.png
+Screenshot saved: C:\Users\U1\Desktop\pro1\LogsAndScreenshots\5-NewProduct.png
+--- Product has been added successfully ---
+--- Running Edit Product Test ---
+--- Navigating to the Edit Product page ---
+Screenshot saved: C:\Users\U1\Desktop\pro1\LogsAndScreenshots\6-EditProductPage.png
+--- Editing Title, Price, and Description ---
+Screenshot saved: C:\Users\U1\Desktop\pro1\LogsAndScreenshots\7-PageEdited.png
+Screenshot saved: C:\Users\U1\Desktop\pro1\LogsAndScreenshots\8-EditedProduct.png
+--- Product has been Edited successfully ---
+--- Running Delete Product Test ---
+--- Deleting the Product ---
+Screenshot saved: C:\Users\U1\Desktop\pro1\LogsAndScreenshots\9-ProductDeleted.png
+--- Product has been Deleted successfully ---
+--- Running Search Product Test ---
+Search input field found.
+Entered search keyword: iPhone
+Screenshot saved: C:\Users\U1\Desktop\pro1\LogsAndScreenshots\10-SearchKeyword.png
+--- Search result: 1 ---
+Screenshot saved: C:\Users\U1\Desktop\pro1\LogsAndScreenshots\11-Searchresult.png
+***** Test Execution Completed Successfully *****
